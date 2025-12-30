@@ -1,8 +1,8 @@
-# Hi, I'm Nitin Saini 👋
+# Hi, I'm Nitin Saini 
 
 🎓 B.Tech (AI & ML) Student  
 💻 Full Stack Developer | AI-powered Web Applications  
-🎯 Seeking Software / AI / Backend Internship Roles
+🎯 Seeking Software / AI / Problem Solver / DSA & CP
 
 
 ##  About Me
@@ -27,13 +27,15 @@
 - Secure JWT-based authentication with bcrypt and optimized MongoDB pipelines for high-concurrency API performance
 - Tech: React.js, Express.js, MongoDB, Tailwind CSS
 
+👉 https://github.com/NitinSaini0606/placementPortal 
+
 
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Flask, REST APIs
 - **AI:** RAG, Vector Embeddings
-- **Database:** MongoDB
+- **Database:** MongoDB,MySQL
 - **Languages:** JavaScript, Python
 
 
