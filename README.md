@@ -2,7 +2,7 @@
 
 🎓 B.Tech (AI & ML) Student  
 💻 Full Stack Developer | AI-powered Web Applications  
-🎯 Seeking Software / AI / Problem Solver / DSA & CP
+🎯 Aspiring Software Engineer / AI / Problem Solver / DSA & CP
 
 
 ##  About Me
