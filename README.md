@@ -33,10 +33,10 @@
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
-- **Backend:** Flask, REST APIs
+- **Backend:** Node.js, Express.js, Flask, REST APIs
 - **AI:** RAG, Vector Embeddings
 - **Database:** MongoDB,MySQL
-- **Languages:** JavaScript, Python
+- **Languages:** C, C++, JavaScript, Python
 
 
 
