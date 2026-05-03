@@ -29,14 +29,27 @@
 
 👉 https://github.com/NitinSaini0606/placementPortal 
 
+### ResumeIQ – AI-Powered Resume Intelligence Platform
+- Built a full-stack platform that analyzes resumes against job descriptions and provides role-readiness insights
+- Implemented Resume-JD matching using NLP, skill overlap, semantic similarity, and custom scoring logic
+- Developed a RAG-based company intel chatbot for interview process insights using vector embeddings and ChromaDB
+- Integrated an AI-powered resume feedback/roast feature using Groq LLM APIs
+- Tech: React.js, FastAPI, Python, NLP, RAG, Vector Embeddings, ChromaDB, Groq API
+
+👉 https://github.com/NitinSaini0606/ResumeIQ
+
+
+
+
 
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask, REST APIs
-- **AI:** RAG, Vector Embeddings
+- **AI/ML:** RAG, Vector Embeddings,NLP,Regression
 - **Database:** MongoDB,MySQL
 - **Languages:** C, C++, JavaScript, Python
+- 
 
 
 
