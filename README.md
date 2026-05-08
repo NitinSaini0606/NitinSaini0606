@@ -28,25 +28,14 @@
 - PHQ-9 & GAD-7 based mental health screening
 - Chatbot grounded in curated mental health resources for domain-specific student guidance
 - Automated risk categorization and admin escalation
-- Tech: React, Vite, Flask, MongoDB, Vector Embeddings
+- Tech: React.js, Tailwind CSS, Node.js, Express.js, MySQL
 
 👉 https://github.com/NitinSaini0606/Excalibur-    
 ▶ [Watch Demo](https://youtu.be/7rRM3c7gHaM)
 
-### TalentBridge – Smart Placement Portal
-- One-click system for approvals, scheduling, and placement management
-- Real-time dashboards for placement analytics and tracking, boosting decision-making efficiency
-- Secure JWT-based authentication with bcrypt and optimized MongoDB pipelines for high-concurrency API performance
-- Tech: React.js, Express.js, MongoDB, Tailwind CSS
-
-👉 https://github.com/NitinSaini0606/placementPortal 
-
-
-
-
 
 ## 🛠 Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS
+- **Frontend:** React.js, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask, REST APIs
 - **AI/ML:** RAG, Vector Embeddings,NLP,Regression
 - **Database:** MongoDB,MySQL
