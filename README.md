@@ -21,16 +21,16 @@
 - Integrated an AI-powered resume feedback/roast feature using Groq LLM APIs
 - Tech: React.js, FastAPI, Python, NLP, RAG, Vector Embeddings, ChromaDB, Groq API
 
-👉 https://github.com/NitinSaini0606/ResumeIQ
+👉 https://github.com/NitinSaini0606/ResumeIQ   
 ▶ [Watch Demo](https://youtu.be/pCEk2U5JBtE)
 
-### MindCare – Student Mental Health Support Platform
+### MindTech – Student Mental Health Support Platform
 - PHQ-9 & GAD-7 based mental health screening
 - Chatbot grounded in curated mental health resources for domain-specific student guidance
 - Automated risk categorization and admin escalation
 - Tech: React, Vite, Flask, MongoDB, Vector Embeddings
 
-👉 https://github.com/NitinSaini0606/Excalibur-
+👉 https://github.com/NitinSaini0606/Excalibur-    
 ▶ [Watch Demo](https://youtu.be/7rRM3c7gHaM)
 
 ### TalentBridge – Smart Placement Portal
@@ -51,7 +51,6 @@
 - **AI/ML:** RAG, Vector Embeddings,NLP,Regression
 - **Database:** MongoDB,MySQL
 - **Languages:** C, C++, JavaScript, Python
-- 
 
 
 
