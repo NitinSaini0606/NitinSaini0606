@@ -1,6 +1,6 @@
 # Hi, I'm Nitin Saini 
 
-🎓 B.Tech (AI & ML) Student  
+🎓 B.Tech in Artificial Intelligence and Machine Learning [NIT Kurukshetra] 
 💻 Full Stack Developer | AI-powered Web Applications  
 🎯 Aspiring Software Engineer / AI / Problem Solver / DSA & CP
 
@@ -13,9 +13,19 @@
 ---
 
 ##  Featured Project
-### MindCare – AI-Powered Student Mental Health Support Platform
+
+### ResumeIQ – AI-Powered Resume Intelligence Platform
+- Built a full-stack platform that analyzes resumes against job descriptions and provides role-readiness insights
+- Implemented Resume-JD matching using NLP, skill overlap, semantic similarity, and custom scoring logic
+- Developed a RAG-based company intel chatbot for interview process insights using vector embeddings and ChromaDB
+- Integrated an AI-powered resume feedback/roast feature using Groq LLM APIs
+- Tech: React.js, FastAPI, Python, NLP, RAG, Vector Embeddings, ChromaDB, Groq API
+
+👉 https://github.com/NitinSaini0606/ResumeIQ
+
+### MindCare – Student Mental Health Support Platform
 - PHQ-9 & GAD-7 based mental health screening
-- RAG-powered AI chatbot with contextual retrieval
+- Chatbot grounded in curated mental health resources for domain-specific student guidance
 - Automated risk categorization and admin escalation
 - Tech: React, Vite, Flask, MongoDB, Vector Embeddings
 
@@ -28,16 +38,6 @@
 - Tech: React.js, Express.js, MongoDB, Tailwind CSS
 
 👉 https://github.com/NitinSaini0606/placementPortal 
-
-### ResumeIQ – AI-Powered Resume Intelligence Platform
-- Built a full-stack platform that analyzes resumes against job descriptions and provides role-readiness insights
-- Implemented Resume-JD matching using NLP, skill overlap, semantic similarity, and custom scoring logic
-- Developed a RAG-based company intel chatbot for interview process insights using vector embeddings and ChromaDB
-- Integrated an AI-powered resume feedback/roast feature using Groq LLM APIs
-- Tech: React.js, FastAPI, Python, NLP, RAG, Vector Embeddings, ChromaDB, Groq API
-
-👉 https://github.com/NitinSaini0606/ResumeIQ
-
 
 
 
