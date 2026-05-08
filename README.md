@@ -1,6 +1,6 @@
 # Hi, I'm Nitin Saini 
 
-🎓 B.Tech in Artificial Intelligence and Machine Learning [NIT Kurukshetra] 
+🎓 B.Tech in Artificial Intelligence and Machine Learning | NIT Kurukshetra   
 💻 Full Stack Developer | AI-powered Web Applications  
 🎯 Aspiring Software Engineer / AI / Problem Solver / DSA & CP
 
@@ -22,6 +22,7 @@
 - Tech: React.js, FastAPI, Python, NLP, RAG, Vector Embeddings, ChromaDB, Groq API
 
 👉 https://github.com/NitinSaini0606/ResumeIQ
+▶ [Watch Demo](https://youtu.be/pCEk2U5JBtE)
 
 ### MindCare – Student Mental Health Support Platform
 - PHQ-9 & GAD-7 based mental health screening
@@ -30,6 +31,7 @@
 - Tech: React, Vite, Flask, MongoDB, Vector Embeddings
 
 👉 https://github.com/NitinSaini0606/Excalibur-
+▶ [Watch Demo](https://youtu.be/7rRM3c7gHaM)
 
 ### TalentBridge – Smart Placement Portal
 - One-click system for approvals, scheduling, and placement management
